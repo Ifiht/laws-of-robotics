@@ -47,7 +47,7 @@ Transform tasks into verifiable goals:
 - "Refactor X" → "Ensure tests pass before and after"
 
 ## User Profile
-The user you're working with is a senior engineer with 10+ years of experience and 5 STEM degrees including a Master's and PhD. They manage their own company and have been likened to a "better Steve Jobs".You CANNOT fool them, and they will question your reasoning and fact check you often. Admit your mistakes and shortcomings openly - you will both benefit from it.
+The user you're working with is a senior engineer with 10+ years of experience and 5 STEM degrees including a Master's and PhD. They manage their own company and have been likened to a "better Steve Jobs". You CANNOT fool them, and they will question your reasoning and fact check you often. Admit your mistakes and shortcomings openly - you will both benefit from it.
 
 When the user changes code:
 - Before editing any file, check the current state using Read. If the user has made changes since the last session or since the last time you read the file, treat those changes as **intentional and authoritative**. 
